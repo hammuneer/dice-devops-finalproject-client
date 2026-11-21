@@ -1,0 +1,9 @@
+.git
+.github
+terraform
+monitoring
+*.md
+.env
+**/__pycache__
+**/*.pyc
+.env.example
